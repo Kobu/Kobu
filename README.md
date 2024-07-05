@@ -50,7 +50,7 @@
 <hr/>
 
 
-## My favorite projects
+## What I'm working on
 
 <div align="center">
 <a href="https://github.com/Kobu-Labs/nowaster-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kobu-Labs&repo=nowaster-web&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"/></a>
